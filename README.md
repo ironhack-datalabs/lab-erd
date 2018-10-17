@@ -10,10 +10,10 @@
 
 ## Exercise Iterations
 
-1 With you choosen company create an entity relationship diagram (ERD) usign workbench. It should contain at least 5 entities.
-2 Create at least 1 one-to-one relationship, 3 many to one relationships and 2 many-to-many relationships in your ERD
-3 Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary
-4 Perform a normalization step to ensure that different entities in the data will have their own respective tables.
+1. With you choosen company create an entity relationship diagram (ERD) usign workbench. It should contain at least 5 entities.
+2. Create at least 1 one-to-one relationship, 3 many to one relationships and 2 many-to-many relationships in your ERD
+3. Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary
+4. Perform a normalization step to ensure that different entities in the data will have their own respective tables.
 
 ## Submission & Deliverable
 
