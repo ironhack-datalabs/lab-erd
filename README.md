@@ -32,6 +32,8 @@ To dever this iteration give us the SQL file output via MySql Menu: Database > F
 
 4. Perform a normalization step to ensure that different entities in the data will have their own respective tables.
 
+BELEN HABLAS MUCHO!!!!
+
 
 ## Deliverables
 
