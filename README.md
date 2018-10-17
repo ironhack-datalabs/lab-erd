@@ -22,12 +22,17 @@ You are a super hands-on data analyst so trust yourself. You will be doing great
 
 ## Exercise Iterations
 
-1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities each of whom should have at least 6 attributes.
+1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities each of whom should have at least 5 attributes.
 2. Create at least 1 one-to-one relationship, 3 many-to-one relationships and 2 many-to-many relationships in your ERD
 3. Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary
 4. Perform a normalization step to ensure that different entities in the data will have their own respective tables.
 
-## Submission & Deliverable
+## Deliverables
+
+- A project.sql file containing the entities,attributes and the relationships used in the construction of your database.
+- A README.md file containing an explanation of the process followed in the construction of your database and analytical workflow, results obtained, obstacles encountered, and lessons learned.
+
+## Submission
 
 - Upon completion, commit your code and submit to github. **REMEMBER TO FORK THE REPO BEFORE**!!
 
