@@ -30,8 +30,8 @@ You are a super hands-on data analyst so trust yourself. You will be doing great
 
 ## Deliverables
 
-- A project.sql file containing the entities,attributes and the relationships used in the construction of your database.
-- A README.md file containing an explanation of the process followed in the construction of your database and analytical workflow, results obtained, obstacles encountered, and lessons learned.
+- A **project.sql** file containing the entities,attributes and the relationships used in the construction of your database.
+- A **README.md** file containing an explanation of the process followed in the construction of your database and analytical workflow, results obtained, obstacles encountered, and lessons learned.
 
 ## Submission
 
