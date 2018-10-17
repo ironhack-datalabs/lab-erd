@@ -53,4 +53,5 @@ You are a super hands-on data analyst so trust yourself. You will be doing great
 - https://dev.mysql.com/downloads/file/?id=479204
 - https://dev.mysql.com/doc/workbench/en/
 - https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning
+- https://dev.mysql.com/doc/workbench/en/workbench-faq.html
 
