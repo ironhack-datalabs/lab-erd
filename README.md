@@ -10,6 +10,7 @@ You have been hired by the company one week ago. The CEO wants to explore new ma
 He trusts you a lot and he asked you for designing the database where you will store the data for further analysis(i.e. sales trends, customer loyalty,most sold products, etc...). You will need to define the entities, the entities' attributes and the relationships among entities. Hurry up!! You need to have it ready before your boss returns.   
 
 Choose your prefered company, think about how the business work and the data that best define the business operation model.
+
 **NOTE: Remember to spent some time to think about your approach before getting down to the task. Draw it on a piece of paper** 
 
 * **SPOTIFY**: This company needs to store inside a database songs, playlists, favorites, users and paid accounts, etc...
@@ -50,4 +51,6 @@ You are a super hands-on data analyst so trust yourself. You will be doing great
 
 ## Extra Resources
 - https://dev.mysql.com/downloads/file/?id=479204
+- https://dev.mysql.com/doc/workbench/en/
+- https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning
 
