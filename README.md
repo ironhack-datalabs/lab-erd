@@ -11,7 +11,7 @@ He trusts you a lot and he asked you for designing the database where you will s
 
 Choose your prefered company, think about how the business work and the data that best define the business operation model.
 
-**NOTE: Remember to spent some time to think about your approach before getting down to the task. Draw it on a piece of paper** 
+**NOTE: Remember to spend some time thinking about the approach before getting down to the task. Draw it on a piece of paper** 
 
 * **SPOTIFY**: This company needs to store inside a database songs, playlists, favorites, users and paid accounts, etc...
 * **AMAZON**: Here you have to conform a schema that handles Products, Reviews, ProductOwners, Users, Track package delivery, etc…
