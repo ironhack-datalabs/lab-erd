@@ -23,10 +23,15 @@ You are a super hands-on data analyst so trust yourself. You will be doing great
 
 ## Exercise Iterations
 
-1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities each of whom should have at least 5 attributes.
-2. Create at least 1 one-to-one relationship, 3 many-to-one relationships and 2 many-to-many relationships in your ERD
-3. Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary
+1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities each of whom should have at least 5 attributes. To deliver this iteration do a screenshot of the entities in MySql workbench
+
+2. Create at least 1 one-to-one relationship, 3 many-to-one relationships and 2 many-to-many relationships in your ERD.
+To dever this iteration give us the SQL file output via MySql Menu: Database > Foward Engineer.
+
+3. Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary. Deliver like iteration 2.
+
 4. Perform a normalization step to ensure that different entities in the data will have their own respective tables.
+
 
 ## Deliverables
 
