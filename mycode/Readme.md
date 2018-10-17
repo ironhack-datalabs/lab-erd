@@ -24,5 +24,7 @@ Por otro lado creo el repositorio en mi carpeta Ironhack/projecto sql, para eso 
 Abrimos Visual Code y modificamos los 4 ficheros que se incluyen en mycode (dentro de la ruta descargada)
 
 Guardamos cambios haciendo git commit y git push origin master.
-Comprobamos con Git status
+Comprobamos con Git status que hemos guardado los cambios
+Hacemos Pull request
+
 
