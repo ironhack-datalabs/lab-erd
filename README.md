@@ -8,7 +8,6 @@ kjhasdf
 asdfasdfasd
 fas
 dfa
-sdfasdf
 
 * **SPOTIFY**: This company needs to store inside a database songs, playlists, favorites, users and paid accounts, etc...
 * **AMAZON**: Here you have to conform a schema that handles Products, Reviews, ProductOwners, Users, Track package delivery, etc…
