@@ -1,62 +1,13 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Entity Relationship Diagram | Creating your first diagram
+# Creación de mi primer diagrama (EER)
 
-## Introduction
-![Boss_gif](https://tenor.com/view/like-aboss-boss-suits-gabriel-macht-harvey-specter-gif-3540818.gif)
+## Procedimiento que se siguió
 
-You have been hired by the company one week ago. The CEO wants to explore new markets to expand the business. He asked your boss to run some previous analysis before launching the business in a new country. Your boss has a last-minute trip to Lisboa to solve some "important brownies". 
+1) Cree un documento de Excel donde plasmé las entities que utilizaría con sus atributios, así como las relaciones que habrían entre ellos. En ocasiones tuve que recurrir a papel y lapiz para aclararme un poco y ver las relaciones visualmente, esta fue la parte del proyecto que más me costó porque a veces me causaba un poco de confusión entender en cual de las entities colocaba la foreign key. 
 
-He trusts you a lot and he asked you for designing the database where you will store the data for further analysis(i.e. sales trends, customer loyalty,most sold products, etc...). You will need to define the entities, the entities' attributes and the relationships among entities. Hurry up!! You need to have it ready before your boss returns.   
+2) Cree los diagramas, tuve algunos problemas en un inicio para generar las relaciones, sin embargo, vi un video en youtube que me aclaró cómo se leen las relaciones, sobretodo me generó confusión la one to many pero ya entendi que el símbolo que pertenece a cada entitie es el que aparece en el extremo opuesto de la entity con la que se conecta. También tuve problema en un inicio para crear relaciones many to many, el problema era que no había marcado el ID como PK y por lo tanto no se podía generar. 
 
-Choose your prefered company, think about how the business work and the data that best define the business operation model.
+3) Finalmente cree la entity de facturación, este paso me resulto bastante simple. 
 
-**NOTE: Remember to spend some time thinking about the approach before getting down to the task. Draw it on a piece of paper** 
-
-* **SPOTIFY**: This company needs to store inside a database songs, playlists, favorites, users and paid accounts, etc...
-* **AMAZON**: Here you have to conform a schema that handles Products, Reviews, ProductOwners, Users, Track package delivery, etc…
-* **IRONHACK**: We need to store users, campus, education staff, alumni, etc.
-
-You are a super hands-on data analyst so trust yourself. You will be doing great!!
-
-**Happy coding and analyzing!!**
-
-## Exercise Iterations
-
-1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities each of whom should have at least 5 attributes. To deliver this iteration do a screenshot of the entities in MySql workbench
-
-2. Create at least 1 one-to-one relationship, 3 many-to-one relationships and 2 many-to-many relationships in your ERD.
-To dever this iteration give us the SQL file output via MySql Menu: Database > Foward Engineer.
-
-3. Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary. Deliver like iteration 2.
-
-4. Perform a normalization step to ensure that different entities in the data will have their own respective tables.
-
-
-## Deliverables
-
-- A **project.sql** file containing the entities,attributes and the relationships used in the construction of your database.
-- A **README.md** file containing an explanation of the process followed in the construction of your database and analytical workflow, results obtained, obstacles encountered, and lessons learned.
-
-## Submission
-
-- Upon completion, commit your code and submit to github. **REMEMBER TO FORK THE REPO BEFORE**!!
-
-  ```
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
-
-- Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
-- Create a pull request with title following this format: **"[<your_campus>][<bootcamp_code>] <your_name>"**
-  If you are doing data bootcamp in Madrid and your name is Marc it should be like this: "[MAD][datamad10108] Marc Pomar"
-- If you have successfully created the pull request you are done!  CONGRATS :)
-
-
-## Extra Resources
-- https://dev.mysql.com/downloads/file/?id=479204
-- https://dev.mysql.com/doc/workbench/en/
-- https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning
-- https://dev.mysql.com/doc/workbench/en/workbench-faq.html
-
+4) Esta es la primera vez que creo un EER, me pareció bastante interesante, sobre todo la fase de pensar las relaciones existentes entre las entities, pensé que me tomaría mucho menos de lo que en realidad me tomó. 
