@@ -3,7 +3,7 @@
 # Entity Relationship Diagram | Creating your first diagram
 
 ## Introduction
-![Boss_gif](https://tenor.com/view/like-aboss-boss-suits-gabriel-macht-harvey-specter-gif-3540818)
+![Boss_gif](https://tenor.com/view/like-aboss-boss-suits-gabriel-macht-harvey-specter-gif-3540818.gif)
 You have been hired recently in the company. The CEO has asked your boss to anal
 asdfasdfasd
 fas
