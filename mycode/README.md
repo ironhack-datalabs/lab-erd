@@ -3,7 +3,7 @@
 Creo la base de datos para AMAZON. Las entidades son: <br>
 Users, Reviews, Products, Productsdelivery y Productowners <br>
 En la imagen se incluyen las relaciones entre los diferentes diagramas. <br>
-[grafo](iteration1.png)
+![grafo](iteration1.png)
 ## Paso 2
 Configuro las relaciones.<br>
 Relaciones One to One:<br>
@@ -24,4 +24,4 @@ Exportamos como SQL script as iteration3.sql
 ## Paso 4
 Creo que el resultado final está normalizado<br>
 Adjunto figura final de la base de datos:<br>
-[grafo2](iteration4.png)
+![grafo2](iteration4.png)
