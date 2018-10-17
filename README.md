@@ -3,8 +3,8 @@
 # Entity Relationship Diagram | Creating your first diagram
 
 ## Introduction
-
-kjhasdf
+![Boss_gif](https://tenor.com/view/like-aboss-boss-suits-gabriel-macht-harvey-specter-gif-3540818)
+You have been hired recently in the company. The CEO has asked your boss to anal
 asdfasdfasd
 fas
 dfa
@@ -37,7 +37,7 @@ dfa
 
 
 ## Extra Resources
-- ![Workbench]https://dev.mysql.com/downloads/file/?id=479204
+- https://dev.mysql.com/downloads/file/?id=479204
 - https://www.lucidchart.com/
 - https://www.draw.io/
 
