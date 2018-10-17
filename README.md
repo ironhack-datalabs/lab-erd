@@ -4,18 +4,25 @@
 
 ## Introduction
 ![Boss_gif](https://tenor.com/view/like-aboss-boss-suits-gabriel-macht-harvey-specter-gif-3540818.gif)
-You have been hired recently in the company. The CEO has asked your boss to anal
-asdfasdfasd
-fas
-dfa
+
+You have been hired by the company one week ago. The CEO wants to explore new markets to expand the business. He asked your boss to run some previous analysis before launching the business in a new country. Your boss has a last-minute trip to Lisboa to solve some "important brownies". 
+
+He trusts you a lot and he asked you for designing the database where you will store the data for further analysis(i.e. sales trends, customer loyalty,most sold products, etc...). You will need to define the entities, the entities' attributes and the relationships among entities. Hurry up!! You need to have it ready before your boss returns.   
+
+Choose your prefered company, think about how the business work and the data that best define the business operation model.
+**NOTE: Remember to spent some time to think about your approach before getting down to the task. Draw it on a piece of paper** 
 
 * **SPOTIFY**: This company needs to store inside a database songs, playlists, favorites, users and paid accounts, etc...
 * **AMAZON**: Here you have to conform a schema that handles Products, Reviews, ProductOwners, Users, Track package delivery, etc…
 * **IRONHACK**: We need to store users, campus, education staff, alumni, etc.
 
+You are a super hands-on data analyst so trust yourself. You will be doing great!!
+
+**Happy coding and analyzing!!**
+
 ## Exercise Iterations
 
-1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities.
+1. With your chosen company create an entity relationship diagram (ERD) using mysql workbench. It should contain at least 5 entities each of whom should have at least 6 attributes.
 2. Create at least 1 one-to-one relationship, 3 many-to-one relationships and 2 many-to-many relationships in your ERD
 3. Imagine that now, the company has to make invoices to their costumers. Add to your ERD entities to store billing information and invoices for their costumers, also make relations with current entities if necessary
 4. Perform a normalization step to ensure that different entities in the data will have their own respective tables.
@@ -38,6 +45,4 @@ dfa
 
 ## Extra Resources
 - https://dev.mysql.com/downloads/file/?id=479204
-- https://www.lucidchart.com/
-- https://www.draw.io/
 
