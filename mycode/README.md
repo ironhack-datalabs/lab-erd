@@ -31,7 +31,7 @@ it is also important to note that identifying relationships (this are defined as
 
 #### Iteration 1 was produced at this point by taking an snapshot of the diagram
 
-![Iteration1](Iteration1.png)
+![Iteration1](iteration1.png)
 
 #### Iteration 2 was produced at this point from Workbench<Database<ForwardEngineer...Saving to file
 
@@ -44,7 +44,7 @@ it is also important to note that identifying relationships (this are defined as
 
 #### Iteration 4 was produced at this point by taking an snapshot of the diagram
 
-![Iteration4](Iteration4.png)
+![Iteration4](iteration4.png)
 
 ### In Github
 
@@ -58,7 +58,9 @@ it is also important to note that identifying relationships (this are defined as
 7. From the console, navigate to the directory where the the local repository will be cloned. Once in there:
 
 
-'''git clone git@github.com:AlbertoCastellanos/lab-erd.git'''
+```
+git clone git@github.com:AlbertoCastellanos/lab-erd.git
+```
 
 
 8. In the directory created by git when cloning the repository, the existing files within the "mycode" directory were exchanged with my own files. The current readme.me was also added to the same folder as long as the attached images.
@@ -66,23 +68,31 @@ it is also important to note that identifying relationships (this are defined as
 9. A first commit was done at the end of October 17th to make sure work done so far was propely stored remotely. Prior to this, files were added to the local repository and the status was checked. The below commands were used:
 
 
-'''git status'''
+```
+git status
+```
 
 It informed that the files were not added
 
 
 
-'''git add ./*'''
+```
+git add ./*
+```
 
 This command added all files but hidden ones in the directory to the local repository.
 
 
-'''git commit -am"Commit to preserve changes before pull request in the following day"
+```
+git commit -am"Commit to preserve changes before pull request in the following day"
+```
 
 This command updates the local repository with changes.
 
 
-'''git push origin master'''
+```
+git push origin master
+```
 
 This command send updates to the remote repository in Github
 
@@ -94,13 +104,23 @@ This command send updates to the remote repository in Github
 
 11. A Pull Request is create from my repository and named following convention "MAD DATA1018 Alberto Castellanos"
 
+
+### Back in the console
+
 12. A new commit-push is executed to synchronize changes on the current readme.me file
 
 
+### Back in GitHub
 
+13. A few more ammendments were necesssary on the readme.me file, they were done in GitHub to make sure that the Markdown standard was being implemented properly.
 
+### Back in the console
 
+14. A pull command is required to update the local repository with the updates in the remote repository.
 
+```
+git pull origin master
+```
 
 
 
