@@ -18,6 +18,13 @@
 
 4. The inclusion of the invoice entity was made after the whole logic in point 3 was developed. Such entity is again in a relationship with the orders entity. An order will generate one invoice and an invoice can be associated with just one order. Therefore we have a one to one relationship.
 
+5. From Github, the las-erd was forked. This generates a copy in the user's global repository.
+
+6. From the user's lab-erd repository, clicking in clone and making sure the option SSH is chosen, a link is prompted. Such link is copied.
+
+7. From the console, navigate to the directory where the the local repository will be cloned. Once in there:
+
+"""git clone git@github.com:AlbertoCastellanos/lab-erd.git"""
 
 
 
