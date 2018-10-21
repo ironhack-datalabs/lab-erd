@@ -30,11 +30,9 @@ First, I create a Database for AMAZON. Main duties are:
     * Popularity (Relation between number of orders in the last month and Avg rating given by the users)
     * Product cost
     * Availability
-<br>
 * Store Products relation with Products Delivery
 <br>
 Final **Entities** to satisfy the requirements for this Project:
-<br>
 * Users
 * Reviews
 * Products
@@ -47,11 +45,9 @@ _____
 ## Step 2
 ### ERD configuration
 Relation One to One:
-<br>
 * **Users** can only have one **product owner** and vice versa
 <br>
 Relation One to Many: 
-<br>
 * Productsowners with Productsdelivery
     * One **product owner** can have more than one **shipment** but one **shipment** can only have one **product owner**
 * Productsowners with Products
