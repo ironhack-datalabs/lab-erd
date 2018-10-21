@@ -1,6 +1,7 @@
 # Day 3, Proyecto SQL - base de datos para AMAZON
 _____
 ## Step 1
+### 1.1
 First, I create a Database for AMAZON. Main duties are:
 <br>
 * Store Users account information:
@@ -31,7 +32,7 @@ First, I create a Database for AMAZON. Main duties are:
     * Product cost
     * Availability
 * Store Products relation with Products Deliveryhow to see
-____
+### 1.2
 Final **Entities** to satisfy the requirements for this Project:
 * Users
 * Reviews
