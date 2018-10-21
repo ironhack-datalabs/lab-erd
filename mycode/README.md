@@ -4,37 +4,32 @@ _____
 First, I create a Database for AMAZON. Main duties are:
 <br>
 * Store Users account information:
-* * Name (First and Last)
-* * Email
-* * Phone
-* * Does the user have a Premium Account?
-<br>
+    * Name (First and Last)
+    * Email
+    * Phone
+    * Does the user have a Premium Account?
 * Store Users relation with Reviews
-<br>
 * Store Reviews information:
-* * Rating (Given by other users to each Review obtaining the overall)
-* * Votes (Number of votes from other users to each Review)
-* * Review body text
-<br>
+    * Rating (Given by other users to each Review obtaining the overall)
+    * Votes (Number of votes from other users to each Review)
+    * Review body text
 * Store Productowners info:
-* * Shipments (Number of shipments)
-* * Total amount of products buyed by the Productowner
-* * Average Shipment spent for the Productowner
-* * Total amount of money spent by the Productowner
-<br>
+    * Shipments (Number of shipments)
+    * Total amount of products buyed by the Productowner
+    * Average Shipment spent for the Productowner
+    * Total amount of money spent by the Productowner
 * Store Products delivery information:ç
-* * Status
-* * User reception confirmation
-* * Shipment date departure
-* * Total Cost
-* * Number of products
-<br>
+    * Status
+    * User reception confirmation
+    * Shipment date departure
+    * Total Cost
+    * Number of products
 * Products:
-* * Average Rate given by users
-* * Description body text
-* * Popularity (Relation between number of orders in the last month and Avg rating given by the users)
-* * Product cost
-* * Availability
+    * Average Rate given by users
+    * Description body text
+    * Popularity (Relation between number of orders in the last month and Avg rating given by the users)
+    * Product cost
+    * Availability
 <br>
 * Store Products relation with Products Delivery
 <br>
@@ -58,21 +53,17 @@ Relation One to One:
 Relation One to Many: 
 <br>
 * Productsowners with Productsdelivery
-* * One **product owner** can have more than one **shipment** but one **shipment** can only have one **product owner**
-<br>
+    * One **product owner** can have more than one **shipment** but one **shipment** can only have one **product owner**
 * Productsowners with Products
-* * One **product owner** can have more than one **product** but one **product** can only have one **product owner**
-<br>
+    * One **product owner** can have more than one **product** but one **product** can only have one **product owner**
 * Products with Reviews
-* * One **product** can have more than one **review** but one **review** can only have one **product**
+    * One **product** can have more than one **review** but one **review** can only have one **product**
 <br>
 Relation Many to Many:
-<br>
 * Users with Reviews
-* * One **user** can have more than one **review** and one **review** can have at the same time the valoration of more than one **user**
-<br>
+    * One **user** can have more than one **review** and one **review** can have at the same time the valoration of more than one **user**
 * Products with Productsdelivery
-* * One **product** can appear in more than one **shipment** and one **shipment** can have more than one **product**
+    * One **product** can appear in more than one **shipment** and one **shipment** can have more than one **product**
 <br>
 Finally, I export the ERD as a SQL script called as *iteration2.sql*
 _____
