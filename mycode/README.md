@@ -31,6 +31,7 @@ First, I create a Database for AMAZON. Main duties are:
     * Product cost
     * Availability
 * Store Products relation with Products Deliveryhow to see
+____
 Final **Entities** to satisfy the requirements for this Project:
 * Users
 * Reviews
