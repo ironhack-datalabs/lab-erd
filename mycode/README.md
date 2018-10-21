@@ -30,8 +30,7 @@ First, I create a Database for AMAZON. Main duties are:
     * Popularity (Relation between number of orders in the last month and Avg rating given by the users)
     * Product cost
     * Availability
-* Store Products relation with Products Delivery
-<br>
+* Store Products relation with Products Deliveryhow to see
 Final **Entities** to satisfy the requirements for this Project:
 * Users
 * Reviews
