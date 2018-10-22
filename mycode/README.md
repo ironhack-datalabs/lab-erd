@@ -40,8 +40,10 @@ Final **Entities** to satisfy the requirements for this Project:
 * Productsdelivery
 * Productowners 
 <br>
+_____
 In the following **ERD DIAGRAM**, saved as *iteration1.png* we can see the entities and the relationships between them (ERD are described in **Step 2**). <br>
 ![grafo](iteration1.png)
+_____
 _____
 ## Step 2
 ### ERD configuration
@@ -64,12 +66,14 @@ Relation Many to Many:
 <br>
 Finally, I export the ERD as a SQL script called as *iteration2.sql*
 _____
+_____
 ## Step 3
 Añado la entidad Billinginfo con los siguientes attributos:
 * name, lastname, adress, city, country, zip, contactphone, bankaccount
 <br>
 This entity is has an ERD One to One with Users Entity<br>
 Export the new ERD as a SQL script called *iteration3.sql*<br>
+_____
 _____
 ## Step 4
 Beliving that the ERD diagram and data base is normalized I procced to<br>
